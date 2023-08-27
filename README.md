@@ -13,15 +13,15 @@ Four branches were created for the purpose of study:
 
 - To study Redux, access the following branches:
 
-  - "redux-todo": In this branch, the implementation of Redux with a to-do list is found, showcasing the basic concepts. The Redux Provider was created in App.tsx, and the store configuration was set up in index.ts. A "slice" was also created within the reducers, containing functions like "add". Additionally, "useSelector" was used to retrieve items from the to-do list, while "useDispatch" was employed to perform updates.
+  - ["redux-todo"](https://github.com/VagnerNerves/react-with-redux-and-zustand-ignite/tree/redux-todo): In this branch, the implementation of Redux with a to-do list is found, showcasing the basic concepts. The Redux Provider was created in App.tsx, and the store configuration was set up in index.ts. A "slice" was also created within the reducers, containing functions like "add". Additionally, "useSelector" was used to retrieve items from the to-do list, while "useDispatch" was employed to perform updates.
 
-  - "redux-player-without-api": In this branch, the implementation of Redux without the use of an API is demonstrated, focusing on a video player project. The "slice" was separated, and functions within the reducers were created, along with tests using "vitest".
+  - ["redux-player-without-api"](https://github.com/VagnerNerves/react-with-redux-and-zustand-ignite/tree/redux-player-whithout-api): In this branch, the implementation of Redux without the use of an API is demonstrated, focusing on a video player project. The "slice" was separated, and functions within the reducers were created, along with tests using "vitest".
 
-  - "redux-player-with-api": In this branch, the implementation of Redux with an API is showcased in the video player project. Interfaces were created, and the use of Async Thunk to perform asynchronous queries in Redux was learned.
+  - ["redux-player-with-api"](https://github.com/VagnerNerves/react-with-redux-and-zustand-ignite/tree/redux-player-with-api): In this branch, the implementation of Redux with an API is showcased in the video player project. Interfaces were created, and the use of Async Thunk to perform asynchronous queries in Redux was learned.
 
 - To study Zustand, access the branch:
 
-  - "main": In this branch, Zustand and all its functionalities were integrated into the video player project.
+  - ["main"](https://github.com/VagnerNerves/react-with-redux-and-zustand-ignite/tree/main): In this branch, Zustand and all its functionalities were integrated into the video player project.
 
 </p>
 
