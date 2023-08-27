@@ -24,7 +24,11 @@ Write here what the project is about.
 
 ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself.
+
+
+https://github.com/VagnerNerves/react-with-redux-and-zustand-ignite/assets/40831841/f36f644d-1049-488c-b1a3-e3e3611aa698
+
+
 
 <!-- ## 🎨 Layout
 
