@@ -128,12 +128,15 @@ Install with dependencies
 Start the server
 
 ```bash
+  # Run Server:
   npm run server
 
+  # Run Web:
   npm run dev
 
-  //For execute test use:
+  # Run test: 
   npm run test
+  npm run test:watch
 ```
 
 <!-- ### Mobile
