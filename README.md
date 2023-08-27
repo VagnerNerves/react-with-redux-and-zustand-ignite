@@ -7,8 +7,7 @@
     🔗 <a href="https://URLThisProject.com">https://URLThisProject.com</a> 🔗
   </p> -->
 
-Write here what the project is about.
-🚧 Project under construction 🚧
+Developed the video player project to learn React with Redux and Zustand.
 
 </p>
 
@@ -24,11 +23,7 @@ Write here what the project is about.
 
 ## 🎥 Implementation Video
 
-
-
 https://github.com/VagnerNerves/react-with-redux-and-zustand-ignite/assets/40831841/f36f644d-1049-488c-b1a3-e3e3611aa698
-
-
 
 <!-- ## 🎨 Layout
 
