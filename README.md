@@ -48,6 +48,7 @@ Describe what you learned and implemented in the project. -->
 - [x] [React Player](https://github.com/cookpete/react-player)
 - [x] [Axios](https://axios-http.com/ptbr/)
 - [x] [JSON Server](https://github.com/typicode/json-server)
+- [x] [Vitest](https://vitest.dev/)
 
 <!-- ## 📂 Folder Structure
 
