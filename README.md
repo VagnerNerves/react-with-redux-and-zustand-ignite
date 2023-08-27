@@ -134,7 +134,7 @@ Start the server
   # Run Web:
   npm run dev
 
-  # Run test: 
+  # Run test:
   npm run test
   npm run test:watch
 ```
@@ -184,7 +184,7 @@ Start the server
 
 ## 🌎 License
 
-This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/react-with-redux-and-zustand-ignite/blob/main/LICENSE) file for more details.
 
 ## ✒ Author
 
